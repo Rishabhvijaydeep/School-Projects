@@ -1,0 +1,5 @@
+#Question: To print a no. from 1 to the given no. by the user using loop
+numupto = int(input("Please enter the no. : "))
+
+for i in range(1,numupto + 1):
+    print(i)
