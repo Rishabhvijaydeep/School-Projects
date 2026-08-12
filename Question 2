@@ -1,0 +1,5 @@
+#Question to print astress in a increasing pattern to the given no. of times
+number = int(input("Please enter the no. of lines you want to print"))
+
+for i in range(1,number + 1):
+    print("*" * i)
