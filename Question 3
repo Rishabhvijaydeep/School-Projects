@@ -1,0 +1,7 @@
+#Question : Print factorial of given no.
+num = int(input("Please enter the number to find its factorial: "))
+
+facto = 1
+for i in range(1, num + 1):
+    facto = facto * i
+print("The factorial of", num, "is", facto)
