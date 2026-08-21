@@ -1,1 +1,23 @@
-#Question - To make a simple timer
+#Question - Make a simple calculator
+print("\n========================================================================================================================")
+
+no1 = float(input("Please enter first no.  "))
+
+no2 = float(input("Please enter another no.  "))
+
+fun = print("Please select one:   \n 1. ADD  \n 2. SUBTRACT \n 3. MULTIPLY \n 4. DIVIDE " )
+
+choice = int(input("Your Choice : "))
+
+if choice == 1:
+    print("\n \nSum of two no. is" , no1 + no2)
+elif choice == 2:
+    print("\n \nDifference of two no. is" , no1 - no2)
+elif choice == 3:
+    print("\n \nMultiplication of two no. is" , no1 * no2)
+elif choice == 4:
+    print("\n \nDivsion of two no. is" , no1 / no2)
+else:
+    print("Error !! Try again")
+print("\n========================================================================================================================")
+#Thanks 
