@@ -1,0 +1,9 @@
+#Question = Input a string and check weather the string starts with vowel or not.
+print("="*100) 
+s = input("Please enter something here: ")
+if s[0] in "aeiouAEIOU":
+    print("The text starts with Vowel")
+else:
+    print("The text doesn't start with a Vowel")
+print("="*100)
+#END

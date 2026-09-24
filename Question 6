@@ -1,0 +1,8 @@
+#Question = Input a string and check if it starts with "T" or not.
+print("="*100)
+s = input("Enter a string: ")
+if s[0] == 'T':
+    print("The string starts with 'T'.")
+else:
+    print("The string does not start with 'T'.")
+print("="*100)

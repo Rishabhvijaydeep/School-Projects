@@ -1,0 +1,15 @@
+#Question = Input a string and count the number of 'a' and 'm' in it.
+print("="*100)
+s = input("Enter a string: ")
+n = 0
+x = 0 
+for ch in s:
+    if ch=='a':
+        n += 1
+    elif ch=='m':
+        x += 1
+else:
+    pass
+print("The number of 'a' in the string is:", n)
+print("The number of 'm' in the string is:", x)
+print("="*100)
