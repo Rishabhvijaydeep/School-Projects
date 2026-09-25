@@ -32,7 +32,7 @@ To run these Python scripts on your computer:
 2. Open your terminal or command prompt.
 3. Run the following command:
    ```bash
-   python filename.py
+
    ```
 
 ---
