@@ -7,14 +7,15 @@
 * **Goal:** Admission to MIT for Computer Science.
 
 ### About Me
-* **Interests:** [Add a brief note about what you enjoy, e.g., Solving math puzzles, competitive programming]
-* **Current Projects:** [Add a brief note about what you are building, e.g., Developing a text-based game]
-* **Academic Focus:** [Add a brief note, e.g., Maintaining high academic standards for university applications]
+* **Interests:** Learning new languages and doing fun projects , F1 and racing sports , and tech.
+* **Current Projects:** Learing basics of python and Javascript
+* **Academic Focus:** Maintaing good enough school marks with trying physics olympiad.
 
 ### Tech Stack
-* **Language:** Python
+* **Language:** Python,Javascript
 * **Tools:** Git, GitHub, VS Code
 
 ### Contact
 * **Email:** rishabhvijaydeep@gmail.com
+* **Company or Project:** Arceus limited (just a choosen name for future accounts and company, ignore) 
 
