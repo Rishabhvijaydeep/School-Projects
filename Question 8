@@ -1,0 +1,8 @@
+#Question = Input a string and count the no. of vowel in that string.
+s = input("Please enter something here: ")
+n = 0
+for ch in range(0,len(s)):
+    if s[ch] in 'aeiouAEIOU':
+        n = n + 1
+print('There are' , n , 'vowel in this string')
+#END

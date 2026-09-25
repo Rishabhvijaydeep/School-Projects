@@ -1,0 +1,24 @@
+#Question = Input a sentence and count the no. each time each vowel occur in the string.
+s = input("Please enter something here: ")
+
+a = 0
+e = 0
+i = 0
+o = 0 
+u = 0
+
+for ch in range(0,len(s)):
+    if s[ch] in "aA" :
+        a = a+1
+    elif s[ch] in "eE" :
+        e = e + 1 
+    elif s[ch] in "iI" :
+        i = i + 1
+    elif s[ch] in "oO" :
+        o = o + 1 
+    elif s[ch] in "uU" :
+        u = u + 1
+    else :
+        pass
+print("In the following string 'a' occurs" , a , "times , 'e' occurs " , e , "times , i occurs" , i , "times , 'o' occurs " , o , "times and u occurs " , u , "times")
+#END
