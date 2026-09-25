@@ -1,43 +1,20 @@
-# 🐍 Class 11 Computer Science - Learning Python
+# Rishabh Vijay
 
-Welcome to my repository! I am a Class 11 CS student, and this repository tracks my journey as I learn Python programming from scratch. 
+11th-grade student and aspiring software engineer.
 
-Here, you will find my school practicals, homework, lab assignments, and personal practice code.
+### Profile
+* **Current Focus:** Learning Python and computer science fundamentals.
+* **Goal:** Admission to MIT for Computer Science.
 
----
+### About Me
+* **Interests:** [Add a brief note about what you enjoy, e.g., Solving math puzzles, competitive programming]
+* **Current Projects:** [Add a brief note about what you are building, e.g., Developing a text-based game]
+* **Academic Focus:** [Add a brief note, e.g., Maintaining high academic standards for university applications]
 
-## 🚀 Topics Covered So Far
+### Tech Stack
+* **Language:** Python
+* **Tools:** Git, GitHub, VS Code
 
-### 1. Basics & Fundamentals
-* **Variables & Data Types:** Understanding Integers, Floats, Strings, and Booleans.
-* **Input/Output:** Taking user inputs using `input()` and formatting outputs using `print()`.
+### Contact
+* **Email:** rishabhvijaydeep@gmail.com
 
-### 2. Control Flow & Loops
-* **Conditional Statements:** `if`, `elif`, and `else` decision-making.
-* **For Loops:** Using loops with `range()` for repeating tasks and counting.
-* **While Loops:** Conditional looping and stopping loops when a condition is met.
-
-### 3. Solved Problems (Examples)
-* **Factorial Calculator:** Finding the factorial of a number using a `for` loop.
-* **Countdown Timer:** Using loops to count backwards.
-* **Even/Odd Checker:** Checking number divisibility.
-
----
-
-## 🛠️ How to Run These Files
-
-To run these Python scripts on your computer:
-
-1. Make sure you have **Python 3** installed.
-2. Open your terminal or command prompt.
-3. Run the following command:
-   ```bash
-
-   ```
-
----
-
-## 🎯 Learning Goals
-* Master Python core fundamentals for the Class 11 CBSE/School curriculum.
-* Learn how to think logically and break down coding problems step-by-step.
-* Keep AI assistance turned off in my code editor so I can learn to write every line manually!
